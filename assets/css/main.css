@@ -3329,11 +3329,12 @@ input, select, textarea {
 
 			#wrapper > section.intro {
 				align-items: center;
+				background-color: #FEB07F;
 			}
 
 				#wrapper > section.intro > header {
-					padding-top: 4rem;
 					background-color: #FEB07F;
+					padding-top: 4rem;
 					width: 100%;
 				}
 
